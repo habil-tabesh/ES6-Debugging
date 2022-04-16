@@ -8,9 +8,9 @@ function addSum(param1, param2){
     console.log(param1 + param2);}
 addSum(a, b);
 //Addition Arrow Function   +
-const addSum = (param1, param2) => {
+const AddSum = (param1, param2) => {
     console.log(param1 + param2);}
-addSum(a,b);
+AddSum(a,b);
 
 
 
@@ -20,9 +20,9 @@ function subtractSum(param1, param2) {
     console.log(param1 - param2);}
 subtractSum(a,b);
 //Subtractraction Arrow Function   -
-const substractSum =(param1, param2)=> {
+const SubtractSum =(param1, param2)=> {
     console.log(param1 - param2);}
-subtractSum(a,b);
+    SubtractSum(a,b);
 
 
 
@@ -33,9 +33,9 @@ function multiplySum(param1, param2) {
 multiplySum(a, b);
 
 //Multiplication Arrow function    *
-const multiplysum = (param1, param2) => {
+const MultiplySum = (param1, param2) => {
     console.log(param1 * param2);}
-multiplySum(a, b);
+MultiplySum(a, b);
 
 
 
@@ -44,6 +44,6 @@ function divideSum(param1, param2) {
     console.log(param1 / param2);}
     divideSum(a, b);
 //Divsion Arrow Function  /
-const divideSum = (param1, param2) => {
+const DivideSum = (param1, param2) => {
     console.log(param1 / param2);}
-    divideSum(a, b);
+    DivideSum(a, b);
